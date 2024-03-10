@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+
+
+.navbar a{
+    color: white;
+}
+
+
+
+
+.dif{
+    background-color: #DC3545;
+}
+
+.text-ricomida{
+    font-family: "Lobster", sans-serif;
+    font-size: 2.3125em;
+    color: white;
+}
+
+.suscribe{
+    font-family: "Cabin";
+    font-size: 2.5em;
+    font-weight: "bold";
+}
+.recetas-cabin{
+    font-family: "Cabin";
+    font-size: 2.5em;
+    font-weight: "bold";
+}
+.ricomidapromo{
+  font-family: "Lobster";
+  font-weight: 400;
+}
+
